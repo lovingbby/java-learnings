@@ -1,0 +1,5 @@
+Method Signature:
+    public static int m1(int i, float p);
+    method signature consists of  method name and arguments
+        here ---> m1(int,float);
+    return type  and modifier is not part of method signature in java.
